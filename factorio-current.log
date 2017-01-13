@@ -1,37 +1,45 @@
-   0.000 2016-12-27 16:57:42; Factorio 0.14.21 (build 25327, linux64, steam)
-   0.078 Operating system: Linux (LinuxMint 18)
-   0.078 Program arguments: "/home/hatuncev/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
-   0.078 Read data path: /home/hatuncev/.local/share/Steam/steamapps/common/Factorio/data
-   0.078 Write data path: /home/hatuncev/.factorio
-   0.078 Binaries path: /home/hatuncev/.local/share/Steam/steamapps/common/Factorio/bin
-   0.091 System info: [CPU:         Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz, 4 cores, RAM: 5950MB]
-   0.092 Display options: [FullScreen: 1] [VSync: 0] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255]
-   0.182 Available display adapters: 2
-   0.183  [0]: resolution 1920x1080px at [0,0]
-   0.183  [1]: resolution 1600x900px at [1920,0]
-   0.183 Create display on adapter 0. Size 1280x720 at position [310, 162].
-   0.506 Initialised OpenGL:[0] GeForce GT 440/PCIe/SSE2; driver: 4.5.0 NVIDIA 367.57
-   0.506     Video memory size (dedicated/total available/current available): 1024/1024/697 MB
-   0.558 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false]
-   0.647 Loading mod core 0.0.0 (data.lua)
-   0.652 Loading mod base 0.14.21 (data.lua)
-   0.766 Checksum for core: 1291735968
-   0.766 Checksum for mod base: 786624017
-   1.150 Info PlayerData.cpp:55: Local player-data.json available, timestamp 1482846998
-   1.150 Info PlayerData.cpp:62: Cloud player-data.json unavailable
-   1.297 Initial atlas bitmap size is 16384
-   1.300 Created atlas bitmap 16384x5589
-   1.300 Created atlas bitmap 4096x968
-   1.301 Created atlas bitmap 4096x3644
-  12.324 Sprites loaded
-  12.324 Convert atlas 4096x968 to: trilinear-filtering 
-  12.368 Convert atlas 4096x3644 to: mipmap 
-  12.511 Loading sounds...
-  14.050 Custom inputs active: 0
-  14.082 Factorio initialised
-  59.415 Loading map /home/hatuncev/.factorio/saves/111.zip
-  59.416 Error FileUtil.cpp:284: Can't remove /home/hatuncev/.factorio/temp/currently-playing: No such file or directory
-  59.997 Info Scenario.cpp:152: Map version 0.14.21-0
-  64.059 Checksum for script /home/hatuncev/.factorio/temp/currently-playing/control.lua: 1057114497
-1630.415 Steam API shutdown.
-1630.417 Goodbye
+   0.000 2016-12-28 14:50:02; Factorio 0.14.21 (build 25327, linux64, steam)
+   0.093 Operating system: Linux (LinuxMint 18)
+   0.093 Program arguments: "/home/hatuncev/.local/share/Steam/steamapps/common/Factorio/bin/x64/factorio" 
+   0.093 Read data path: /home/hatuncev/.local/share/Steam/steamapps/common/Factorio/data
+   0.093 Write data path: /home/hatuncev/.factorio
+   0.093 Binaries path: /home/hatuncev/.local/share/Steam/steamapps/common/Factorio/bin
+   0.109 System info: [CPU:         Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz, 4 cores, RAM: 5950MB]
+   0.110 Display options: [FullScreen: 1] [VSync: 0] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255]
+   0.208 Available display adapters: 2
+   0.208  [0]: resolution 1920x1080px at [0,0]
+   0.208  [1]: resolution 1600x900px at [1920,0]
+   0.208 Create display on adapter 0. Size 1280x720 at position [310, 162].
+   0.623 Initialised OpenGL:[0] GeForce GT 440/PCIe/SSE2; driver: 4.5.0 NVIDIA 367.57
+   0.624     Video memory size (dedicated/total available/current available): 1024/1024/692 MB
+   0.657 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false]
+   0.758 Loading mod core 0.0.0 (data.lua)
+   0.779 Loading mod base 0.14.21 (data.lua)
+   0.908 Checksum for core: 1291735968
+   0.908 Checksum for mod base: 786624017
+   1.283 Info PlayerData.cpp:55: Local player-data.json available, timestamp 1482925725
+   1.283 Info PlayerData.cpp:62: Cloud player-data.json unavailable
+   1.427 Initial atlas bitmap size is 16384
+   1.432 Created atlas bitmap 16384x5589
+   1.432 Created atlas bitmap 4096x968
+   1.433 Created atlas bitmap 4096x3644
+  12.282 Sprites loaded
+  12.282 Convert atlas 4096x968 to: trilinear-filtering 
+  12.322 Convert atlas 4096x3644 to: mipmap 
+  12.442 Loading sounds...
+  14.057 Custom inputs active: 0
+  14.088 Factorio initialised
+  18.702 Loading map /home/hatuncev/.factorio/saves/111.zip
+  18.703 Error FileUtil.cpp:284: Can't remove /home/hatuncev/.factorio/temp/currently-playing: No such file or directory
+  19.315 Info Scenario.cpp:152: Map version 0.14.21-0
+  23.350 Checksum for script /home/hatuncev/.factorio/temp/currently-playing/control.lua: 1057114497
+ 287.289 Loading map /home/hatuncev/.factorio/saves/_autosave2.zip
+ 287.290 Error FileUtil.cpp:284: Can't remove /home/hatuncev/.factorio/temp/currently-playing: No such file or directory
+ 287.886 Info Scenario.cpp:152: Map version 0.14.21-0
+ 291.762 Checksum for script /home/hatuncev/.factorio/temp/currently-playing/control.lua: 1057114497
+1066.385 Loading map /home/hatuncev/.factorio/saves/111.zip
+1066.385 Error FileUtil.cpp:284: Can't remove /home/hatuncev/.factorio/temp/currently-playing: No such file or directory
+1066.946 Info Scenario.cpp:152: Map version 0.14.21-0
+1070.948 Checksum for script /home/hatuncev/.factorio/temp/currently-playing/control.lua: 1057114497
+2784.078 Steam API shutdown.
+2784.081 Goodbye

@@ -22,7 +22,10 @@
         "beta": "normal",
         "demo": "normal"
     },
-    "console-history": "",
+    "console-history": [
+        "\/c game.evolution_factor = 1",
+        "\/c game.evolution_factor=1 game.forces.enemy.kill_all_units()"
+    ],
     "latest-multiplayer-connections": [
         {
             "address": "192.168.88.109"
